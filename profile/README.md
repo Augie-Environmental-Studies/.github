@@ -6,17 +6,19 @@
   </a>
 </p>
 
-
+<br>
 
 <p align="center">
   <a href="https://www.facebook.com/augiesustain/">
-    <img alt="Facebook" src="https://user-images.githubusercontent.com/19341857/190890032-160004c5-39f0-43ac-8d33-1d2ccd4b8738.svg">
+    <img alt="Facebook" src="https://user-images.githubusercontent.com/19341857/190890925-3e2697ac-4e45-458d-a1ee-8ef6c1e38330.svg" width="20">
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/augiesustain/">
-    <img alt="Instagram" src="https://user-images.githubusercontent.com/19341857/190890035-f24eaa1a-5475-4808-b819-5fbaf7675745.svg">
+    <img alt="Instagram" src="https://user-images.githubusercontent.com/19341857/190890927-20acd3d3-586b-4abb-bb4f-b0cab21904ac.svg" width="20">
   </a>
+  &nbsp;
   <a href="https://twitter.com/augieenviro">
-    <img alt="Facebook" src="https://user-images.githubusercontent.com/19341857/190890036-45fe5ca6-e0f9-45b0-826b-fa473e745be5.svg">
+    <img alt="Facebook" src="https://user-images.githubusercontent.com/19341857/190890929-b924febf-d6ac-4a58-a12b-c755364a3936.svg" width="20">
   </a>
 </p>
 
