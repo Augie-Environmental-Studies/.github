@@ -22,4 +22,9 @@
   </a>
 </p>
 
+<!--
+<br>
+
+We view environmental studies as a way to help every student use their talents to make a positive difference in our community. This is about loving our neighbors as ourselves, using every tool at our disposal.
+-->
 
