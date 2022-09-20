@@ -22,6 +22,19 @@
   </a>
 </p>
 
+<br>
+
+> We believe in Community by caring 
+for one another and our environments. 
+Community has further meanings of 
+responding to needs, 
+respecting human differences, 
+empowering one another, 
+tending to the ecology of place.
+>
+> (Looney, Sandra C., 1996,
+*Continuing the Dialogue: Augustana College*)
+
 <!--
 <br>
 
